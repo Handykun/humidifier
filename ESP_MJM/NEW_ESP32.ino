@@ -32,7 +32,7 @@ void setup()
     USE_SERIAL.flush();
     delay(1000);
   }
-
+//editedd
   wifiMulti.addAP("realme 9 Pro+", "11111111");
 
   deviceID = "10107";
